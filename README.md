@@ -1,0 +1,2 @@
+# Simple Calculator 8086
+ This 8086 microprocessor-based calculator offers basic mathematical operations—Addition, Subtraction, Multiplication, and Division—prompted for selection during runtime from the console.  For division operations, the program triggers a user defined interrupt to address divide by zero error. This program takes single digit input and prints single digit negative or two digit positive number as output. This program is emulated and tested using the emu8086 software.
